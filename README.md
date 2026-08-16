@@ -1,0 +1,2 @@
+# ini
+for admob
